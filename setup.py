@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 
-VERSION = '0.0.4'
+VERSION = '0.0.5'
 DESCRIPTION = 'Simple Encryption Tool'
 LONG_DESCRIPTION = 'A package that can be used to do simple encryption of strings with random passwords.'
 
